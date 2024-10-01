@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  },
+  "name": "using-postgresql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawidGawronskiDev/using-postgresql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawidGawronskiDev/using-postgresql/issues"
+  },
+  "homepage": "https://github.com/DawidGawronskiDev/using-postgresql#readme",
+  "description": ""
+}
